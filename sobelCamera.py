@@ -21,6 +21,7 @@ colorize = True
 # Farbverschiebung (0..255) zum zyklischen Verschieben der Colormap
 color_shift = 0
 
+
 # Matrix-Darstellung (grün auf schwarz) umschalten
 matrix_mode = False
 
